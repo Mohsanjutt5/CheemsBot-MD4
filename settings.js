@@ -62,15 +62,15 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.owner = ['+923084276635']
-global.ownertag = '923084276635' //ur tag number
+global.ownertag = '+923084276635' //ur tag number
 global.botname = '☠︎︎𝑭𝒂𝒊𝒛𝒂𝒏 𝑯𝒂𝒄𝒌𝒆𝒓☠︎' //ur bot name
 global.linkz = "https://youtube.com/channel/UCc9H7CEIMTmEwq5F9So06_g" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/channel/UCc9H7CEIMTmEwq5F9So06_g" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
+global.reactmoji = "☠︎︎𝑭𝒂𝒊𝒛𝒂𝒏 𝑯𝒂𝒄𝒌𝒆𝒓☠︎" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "☠︎︎𝑭𝒂𝒊𝒛𝒂𝒏 𝑯𝒂𝒄𝒌𝒆𝒓☠︎ Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄☠︎︎𝑭𝒂𝒊𝒛𝒂𝒏 𝑯𝒂𝒄𝒌𝒆𝒓☠︎" //ur sticker watermark author
+global.author = "☠︎︎𝑭𝒂𝒊𝒛𝒂𝒏 𝑯𝒂𝒄𝒌𝒆𝒓☠︎" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['923084276635'] //ur premium numbers
+global.premium = ['+923084276635'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
