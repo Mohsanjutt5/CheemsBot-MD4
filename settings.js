@@ -11,14 +11,14 @@
 //hai to, description me xeon ka yt channel
 // ka link paste kr dena as a cradit or github 
 //repo me bhi tag kardena baki jo
-//bhi karna hai apki marzi, thank you!🦄
+//bhi karna hai apki marzi, thank you!☠︎
 //════════════════════════════//
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
 //i give permission to do as long as you
 //put Xeons youtube channel link in the video
 //description and tag me on githuh repo, 
-//thank you🦄
+//thank you☠︎
 //════════════════════════════//
 
 const fs = require('fs')
@@ -68,8 +68,8 @@ global.linkz = "https://youtube.com/channel/UCc9H7CEIMTmEwq5F9So06_g" //your the
 global.websitex = "https://youtube.com/channel/UCc9H7CEIMTmEwq5F9So06_g" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "🤖" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "☠︎︎𝑭𝒂𝒊𝒛𝒂𝒏 𝑯𝒂𝒄𝒌𝒆𝒓☠︎ Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.themeemoji = "☠︎" //ur theme emoji
+global.packname = "☠︎︎𝑭𝒂𝒊𝒛𝒂𝒏 𝑯𝒂𝒄𝒌𝒆𝒓☠︎ Stickers\n\n\n\n\n\n\n\n\n\n\n☠︎☠︎☠︎ " //ur sticker watermark packname
 global.author = "☠︎︎𝑭𝒂𝒊𝒛𝒂𝒏 𝑯𝒂𝒄𝒌𝒆𝒓☠︎" //ur sticker watermark author
 
 //Bot theme media
