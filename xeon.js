@@ -11,14 +11,14 @@
 //hai to, description me xeon ka yt channel
 // ka link paste kr dena as a cradit or github 
 //repo me bhi tag kardena baki jo
-//bhi karna hai apki marzi, thank you!🦄
+//bhi karna hai apki marzi, thank you!☠︎
 //════════════════════════════//
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
 //i give permission to do as long as you
 //put Xeons youtube channel link in the video
 //description and tag me on githuh repo, 
-//thank you🦄
+//thank you☠︎
 //════════════════════════════//
 
 require('./settings')
@@ -333,13 +333,13 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
         if (connection === 'close') {
         let reason = new Boom(lastDisconnect?.error)?.output.statusCode
             if (reason === DisconnectReason.badSession) { console.log(`Bad Session File, Please Delete Session and Scan Again`); XeonBotInc.logout(); }
-            else if (reason === DisconnectReason.connectionClosed) { console.log("🦄Connection closed, reconnecting...."); startXeonBotInc(); }
-            else if (reason === DisconnectReason.connectionLost) { console.log("🦄Connection Lost from Server, reconnecting..."); startXeonBotInc(); }
-            else if (reason === DisconnectReason.connectionReplaced) { console.log("🦄Connection Replaced, Another New Session Opened, Please Close Current Session First"); XeonBotInc.logout(); }
-            else if (reason === DisconnectReason.loggedOut) { console.log(`🦄Device Logged Out, Please Scan Again And Run.`); XeonBotInc.logout(); }
-            else if (reason === DisconnectReason.restartRequired) { console.log("🦄Restart Required, Restarting..."); startXeonBotInc(); }
-            else if (reason === DisconnectReason.timedOut) { console.log("🦄Connection TimedOut, Reconnecting..."); startXeonBotInc(); }
-            else XeonBotInc.end(`🦄Unknown DisconnectReason: ${reason}|${connection}`)
+            else if (reason === DisconnectReason.connectionClosed) { console.log("☠︎Connection closed, reconnecting...."); startXeonBotInc(); }
+            else if (reason === DisconnectReason.connectionLost) { console.log("☠︎Connection Lost from Server, reconnecting..."); startXeonBotInc(); }
+            else if (reason === DisconnectReason.connectionReplaced) { console.log("☠︎Connection Replaced, Another New Session Opened, Please Close Current Session First"); XeonBotInc.logout(); }
+            else if (reason === DisconnectReason.loggedOut) { console.log(`☠︎Device Logged Out, Please Scan Again And Run.`); XeonBotInc.logout(); }
+            else if (reason === DisconnectReason.restartRequired) { console.log("☠︎Restart Required, Restarting..."); startXeonBotInc(); }
+            else if (reason === DisconnectReason.timedOut) { console.log("☠︎Connection TimedOut, Reconnecting..."); startXeonBotInc(); }
+            else XeonBotInc.end(`☠︎Unknown DisconnectReason: ${reason}|${connection}`)
         }
         console.log('Connected...', update)
     })
